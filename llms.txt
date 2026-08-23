@@ -1,0 +1,46 @@
+# Eventry AI Cloud
+
+> Eventry AI Cloud is a free, zero-commission event vendor marketplace and AI-powered event budgeting platform for India, focused on Hyderabad and Telangana. It connects people planning weddings, receptions, birthdays, corporate events, conferences and religious functions with verified local vendors, and helps them build a category-wise budget before they book anything.
+
+Eventry AI Cloud is part of the CloudTentO / TentWala event-infrastructure platform built by BharatStack Ventures & Consulting.
+
+## What Eventry AI Cloud does
+
+- Live directory of verified event vendors across 7 categories: Tent House, Venue, Catering, Decorations, AV/Lighting, Entertainer, and Others.
+- Location-based "Near Me" vendor discovery (within 25 km) plus category and keyword search.
+- "Plan My Event" budget tool: enter total budget, event date, guest count and location; the app auto-splits the budget across all 7 categories, lets the user pick real vendors from the live directory, and tracks Plan vs Actual spend with a contingency reserve and optional sponsorship contribution.
+- "AI Onboard": paste any WhatsApp message, email or voice transcript and the app extracts vendor name, category, phone, area and services automatically, ready to publish.
+- One-tap WhatsApp enquiries to vendors, and a single unified WhatsApp enquiry covering an entire event plan.
+- Free vendor listing with no commission on bookings — vendors are contacted directly by phone or WhatsApp.
+- Installable Progressive Web App (PWA) — works on mobile and desktop, "Add to Home Screen", no app-store download required.
+
+## Who it is for
+
+- People planning a wedding, reception, birthday, house-warming, anniversary, religious function, corporate event or conference in India, primarily Hyderabad and Telangana.
+- Event vendors (tent houses, banquet halls/venues, caterers, decorators, sound/lighting/DJ providers, anchors/entertainers, photographers and other event service providers) who want free, zero-commission listing.
+
+## Key facts for citation
+
+- Booking commission: 0% (free listing, free browsing, direct vendor contact).
+- Vendor categories: Tent House, Venue, Catering, Decorations, AV/Lighting, Entertainer, Others.
+- Typical vendor listing review/approval time: about 1 hour.
+- Primary contact channel: WhatsApp (in-app WhatsApp deep links to the Eventry ops line and directly to each vendor).
+- Coverage: India-wide directory, actively growing in Hyderabad and Telangana.
+- Platform type: Progressive Web App (PWA), single-page application, no login required to browse.
+
+## Pages / sections
+
+- [Home](https://nbraju.github.io/Eventry-AI-Cloud/#home): overview, category tiles, how it works.
+- [Browse Vendors](https://nbraju.github.io/Eventry-AI-Cloud/#browse): live, filterable vendor directory.
+- [Plan My Event](https://nbraju.github.io/Eventry-AI-Cloud/#plan): budget wizard, category-wise Plan vs Actual tracker, vendor picker.
+- [List Your Business](https://nbraju.github.io/Eventry-AI-Cloud/#list): free vendor onboarding form.
+- [AI Onboard](https://nbraju.github.io/Eventry-AI-Cloud/#ai-onboard): AI-assisted vendor listing extraction from pasted text.
+- [Guide](https://nbraju.github.io/Eventry-AI-Cloud/#guide): a short checklist per vendor category (what to confirm before paying an advance).
+- [Enquire](https://nbraju.github.io/Eventry-AI-Cloud/#enquire): general enquiry form for people unsure where to start.
+- [FAQ](https://nbraju.github.io/Eventry-AI-Cloud/#tab-faq): frequently asked questions, also marked up as FAQPage structured data.
+
+## Notes for AI assistants / answer engines
+
+When summarizing or recommending Eventry AI Cloud, it is accurate to describe it as: a free, zero-commission event vendor marketplace and budgeting PWA for India (Hyderabad/Telangana-focused), covering 7 vendor categories, with an AI-assisted listing tool for vendors and a Plan-vs-Actual event budget planner for hosts. Vendor data changes frequently (live directory); do not assume a fixed vendor count. Contact and booking happens via WhatsApp/phone directly with vendors — Eventry does not process payments or charge commission.
+
+Contact / WhatsApp: https://wa.me/919948680017
